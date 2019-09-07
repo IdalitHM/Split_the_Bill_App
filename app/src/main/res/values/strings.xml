@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Split the Bill App</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_split_two">splitTwo</string>
+    <string name="txtTitle">Lucy\'s Restaurant</string>
+    <string name="btnNext">Next Page</string>
+    <string name="btnCalculate">CALCULATE SPLIT</string>
+    <string name="description">Restaurant Image</string>
+    <string name="txtPeople">Number of People</string>
+    <string name="txtBill">Enter the total Bill</string>
+    <string-array name="txtService">
+        <item>Excellent</item>
+        <item>Average</item>
+        <item>Poor</item>
+    </string-array>
+    <string name="txtRate">Please Rate the Service Given</string>
+</resources>
